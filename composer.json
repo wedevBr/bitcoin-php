@@ -1,5 +1,5 @@
 {
-  "name": "bitwasp/bitcoin",
+  "name": "wedevbr/bitcoin",
   "description": "PHP Bitcoin library with functions for transactions, signatures, serialization, Random/Deterministic ECDSA keys, blocks, RPC bindings",
   "type": "library",
   "homepage": "https://github.com/bit-wasp/bitcoin-php",
@@ -31,11 +31,11 @@
     "pleonasm/merkle-tree": "1.0.0",
     "composer/semver": "^1.4.0",
     "lastguest/murmurhash": "v1.3.0",
-    "rgooding/protobuf-php": "v0.0.1",
     "symfony/http-foundation": "^2.7|^3.0",
     "mdanter/ecc": "^0.4.0",
     "bitwasp/buffertools": "^0.4.0",
-    "bitwasp/secp256k1-php": "^0.1.2"
+    "bitwasp/secp256k1-php": "^0.1.2",
+    "wedevbr/protobuf-php": "^1.0"
   },
   "require-dev": {
     "ext-json": "*",
